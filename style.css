@@ -357,10 +357,7 @@ body{
   
   /* Smartphones (portrait and landscape) ----------- */
   @media screen and (min-device-width : 320px) and (max-device-width : 480px) {
-    .body{
-      min-width: 375px;
-      min-height: 667px;
-    }
+    
     .logo{
       left: 4.27%;
       right: 87.2%;
