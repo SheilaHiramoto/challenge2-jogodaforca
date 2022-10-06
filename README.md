@@ -1,4 +1,4 @@
-# challenge2-jogodaforca-Turma 3
+# JogodaForca/Challenge Alura & Oracle/ Turma 3
 Jogo da Forca Alura/Oracle
 No segundo challenge foi solicitado que criassemos o jogo da forca
 O projeto:
